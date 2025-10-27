@@ -77,7 +77,6 @@ theme.ts
    ```bash
    npm install
    npx expo install
-````
 
 2. Inicie o bundler (modo estável para emulador Android):
 
@@ -142,6 +141,3 @@ theme.ts
 * **Mudou o `babel.config.js` e quebrou**
   Sempre reinicie com `npx expo start -c`.
 
-
-Se quiser, eu também te gero um **.docx** com o conteúdo do PDF já formatadinho (capa, sumário automático e estilos de título). Quer?
-```
