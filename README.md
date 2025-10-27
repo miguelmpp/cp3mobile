@@ -6,6 +6,32 @@ Protótipo didático em **React Native (Expo)** demonstrando **navegação híbr
 
 ---
 
+## 🖼️ Galeria de Prints
+
+<div align="center">
+
+<!-- Tabs visíveis -->
+<img src="assets/Captura%20de%20tela%202025-10-27%20105240.png" width="260" />
+<!-- Drawer aberto -->
+<img src="assets/Captura%20de%20tela%202025-10-27%20105309.png" width="260" />
+<!-- Lançar com Picker aberto -->
+<img src="assets/Captura%20de%20tela%202025-10-27%20105320.png" width="260" />
+<!-- Lançar com Image e campos -->
+<img src="assets/Captura%20de%20tela%202025-10-27%20105734.png" width="260" />
+<!-- Alert de validação -->
+<img src="assets/Captura%20de%20tela%202025-10-27%20105752.png" width="260" />
+<!-- Histórico com lista -->
+<img src="assets/Captura%20de%20tela%202025-10-27%20105816.png" width="260" />
+<!-- Detalhe da despesa -->
+<img src="assets/Captura%20de%20tela%202025-10-27%20105838.png" width="260" />
+<!-- Config (stub) -->
+<img src="assets/Captura%20de%20tela%202025-10-27%20105907.png" width="260" />
+<!-- Termos/Sobre -->
+<img src="assets/Captura%20de%20tela%202025-10-27%20105946.png" width="260" />
+
+</div>
+
+
 ## ✨ Funcionalidades
 
 - **Navegação híbrida**
